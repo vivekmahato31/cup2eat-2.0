@@ -1,6 +1,6 @@
 {
   "name": "cup2eat-2-immersive",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -15,17 +15,17 @@
     "gsap": "^3.12.5",
     "lenis": "^1.1.20",
     "lucide-react": "^0.468.0",
-    "next": "^14.2.23",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "next": "14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
     "three": "^0.172.0"
   },
   "devDependencies": {
     "@types/node": "^22.10.2",
     "@types/react": "^18.3.18",
     "@types/react-dom": "^18.3.5",
-    "eslint": "^8.57.1",
-    "eslint-config-next": "^14.2.23",
+    "eslint": "8.57.1",
+    "eslint-config-next": "14.2.35",
     "typescript": "^5.7.2"
   }
 }
